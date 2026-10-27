@@ -1,1 +1,6 @@
-numpy\npandas\nscikit-learn\ntorch\npillow\nstreamlit\n
+numpy
+pandas
+scikit-learn
+torch
+pillow
+streamlit
